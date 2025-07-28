@@ -40,8 +40,8 @@ node server.js
 ```
 
 ## Usage
-Open your browser and go to http://localhost:8000/test_v2.html.
+- Open your browser and go to http://localhost:8000/test_v2.html.
 
-Type your question and chat with the MiniMind model.
+- Type your question and chat with the MiniMind model.
 
-Chat history is saved locally in your browser. Click "Clear History" to remove.
+- Chat history is saved locally in your browser. Click "Clear History" to remove.
