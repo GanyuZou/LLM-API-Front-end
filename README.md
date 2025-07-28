@@ -39,6 +39,7 @@ Then run:
 node server.js
 ```
 ### 3. Put your .pth file in ./out dir
+download example model here: https://www.modelscope.cn/datasets/gongjy/minimind_dataset/files
 ## Usage
 - Open your browser and go to http://localhost:8000/template.html.
 
