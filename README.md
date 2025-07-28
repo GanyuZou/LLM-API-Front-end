@@ -47,4 +47,4 @@ download example model here: https://www.modelscope.cn/datasets/gongjy/minimind_
 
 - Chat history is saved locally in your browser. Click "Clear History" to remove.
 
-## MiniMind is a powerful and friendly LLM framework, this project is based on MiniMind. To find MiniMind, go to 
+## MiniMind is a powerful and friendly LLM framework, this project is based on MiniMind. To find MiniMind, go to https://github.com/jingyaogong/minimind.
