@@ -10,7 +10,7 @@ app.use(express.static(path.join(__dirname)));
 
 // 根路由：可选，直接访问时重定向到test.html
 app.get('/', (req, res) => {
-  res.redirect('/test_v2.html');
+  res.redirect('/template.html');
 });
 
 // 启动服务器
