@@ -10,7 +10,7 @@ A simple local end-to-end chat system based on the MiniMind language model. This
 - **Simple Web Frontend**  
   Clean chat interface with message history, localStorage support, and mobile-friendly design.
 - **Node.js Static Server**  
-  Serves the frontend at [http://localhost:8000/test_v2.html](http://localhost:8000/test_v2.html).
+  Serves the frontend at [http://localhost:8000/test_v2.html](http://localhost:8000/template.html).
 - **Easy Setup**  
   No cloud needed. All runs locally for maximum privacy.
 - **History Management**  
@@ -40,7 +40,7 @@ node server.js
 ```
 
 ## Usage
-- Open your browser and go to http://localhost:8000/test_v2.html.
+- Open your browser and go to http://localhost:8000/template.html.
 
 - Type your question and chat with the MiniMind model.
 
