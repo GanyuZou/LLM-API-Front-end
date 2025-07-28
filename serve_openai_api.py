@@ -171,7 +171,7 @@ async def chat_completions(request: ChatRequest):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Server for MiniMind")
-    parser.add_argument('--out_dir', default='minimind-master//minimind-master//out', type=str)
+    parser.add_argument('--out_dir', default='./out', type=str)
     parser.add_argument('--lora_name', default='None', type=str)
     parser.add_argument('--hidden_size', default=512, type=int)
     parser.add_argument('--num_hidden_layers', default=8, type=int)
