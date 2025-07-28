@@ -38,7 +38,7 @@ Then run:
 ```bash
 node server.js
 ```
-
+### 3. Put your .pth file in ./out dir
 ## Usage
 - Open your browser and go to http://localhost:8000/template.html.
 
